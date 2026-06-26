@@ -1,0 +1,211 @@
+{
+  "listing_url": "https://www.verizon.com/smartphones/",
+  "requested_limit": 8,
+  "products": [
+    {
+      "product_name": "Apple iPhone 17",
+      "product_url": "https://www.verizon.com/smartphones/apple-iphone-17/?sku=sku6037251",
+      "monthly_price": "Starts at $23.05/mo",
+      "rating": "4.3 out of 5 rating (4.9K reviews)",
+      "storage_variants": [
+        {
+          "storage": "256 GB",
+          "price": null
+        },
+        {
+          "storage": "512 GB",
+          "price": null
+        }
+      ],
+      "visible_colours": [
+        "Lavender",
+        "White",
+        "Black",
+        "Mist Blue",
+        "Sage"
+      ],
+      "is_iphone_17": true,
+      "found_via": "listing_grid",
+      "errors": []
+    },
+    {
+      "product_name": "Apple iPhone 17 Pro Max",
+      "product_url": "https://www.verizon.com/smartphones/apple-iphone-17-pro-max/?sku=sku6037281",
+      "monthly_price": "Starts at $33.33/mo",
+      "rating": null,
+      "storage_variants": [
+        {
+          "storage": "256 GB",
+          "price": null
+        },
+        {
+          "storage": "512 GB",
+          "price": null
+        },
+        {
+          "storage": "1 TB",
+          "price": null
+        },
+        {
+          "storage": "2 TB",
+          "price": null
+        }
+      ],
+      "visible_colours": [
+        "Cosmic Orange",
+        "Deep Blue",
+        "Silver"
+      ],
+      "is_iphone_17": true,
+      "found_via": "listing_grid",
+      "errors": [
+        "Element for 'rating' went stale"
+      ]
+    },
+    {
+      "product_name": "Samsung Galaxy S26+",
+      "product_url": "https://www.verizon.com/smartphones/samsung-galaxy-s26-plus/?sku=sku6044451",
+      "monthly_price": "Starts at $30.55/mo",
+      "rating": "4.7 out of 5 rating (1K reviews)",
+      "storage_variants": [
+        {
+          "storage": "256 GB",
+          "price": null
+        },
+        {
+          "storage": "512 GB",
+          "price": null
+        }
+      ],
+      "visible_colours": [
+        "Cobalt Violet",
+        "White",
+        "Black",
+        "Sky Blue"
+      ],
+      "is_iphone_17": false,
+      "found_via": "listing_grid",
+      "errors": []
+    },
+    {
+      "product_name": "Samsung Galaxy S26 Ultra",
+      "product_url": "https://www.verizon.com/smartphones/samsung-galaxy-s26-ultra/?sku=sku6044459",
+      "monthly_price": "Starts at $36.11/mo",
+      "rating": "4.8 out of 5 rating (13K reviews)",
+      "storage_variants": [
+        {
+          "storage": "256 GB",
+          "price": null
+        },
+        {
+          "storage": "512 GB",
+          "price": null
+        }
+      ],
+      "visible_colours": [
+        "Cobalt Violet",
+        "Sky Blue",
+        "White",
+        "Black"
+      ],
+      "is_iphone_17": false,
+      "found_via": "listing_grid",
+      "errors": []
+    },
+    {
+      "product_name": "Apple iPhone 17 Pro",
+      "product_url": "https://www.verizon.com/smartphones/apple-iphone-17-pro/?sku=sku6037286",
+      "monthly_price": "Starts at $30.55/mo",
+      "rating": "4.3 out of 5 rating (5.7K reviews)",
+      "storage_variants": [],
+      "visible_colours": null,
+      "is_iphone_17": true,
+      "found_via": "listing_grid",
+      "errors": [
+        "Could not load PDP: Message: stale element reference: stale element not found in the current frame\n  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception\nStacktrace:\n\tchromedriver!GetHandleVerifier [0x7ff73b393fa5+14925]\n\tchromedriver!GetHandleVerifier [0x7ff73b394000+14980]\n\tchromedriver!(No symbol) [0x7ff73aed793d]\n\tchromedriver!(No symbol) [0x7ff73aedf8b1]\n\tchromedriver!(No symbol) [0x7ff73aee2875]\n\tchromedriver!(No symbol) [0x7ff73aee293f]\n\tchromedriver!(No symbol) [0x7ff73af3122a]\n\tchromedriver!(No symbol) [0x7ff73af31dac]\n\tchromedriver!(No symbol) [0x7ff73af25e2c]\n\tchromedriver!(No symbol) [0x7ff73af257c6]\n\tchromedriver!(No symbol) [0x7ff73af7f39b]\n\tchromedriver!(No symbol) [0x7ff73af2401c]\n\tchromedriver!(No symbol) [0x7ff73af24f43]\n\tchromedriver!GetHandleVerifier [0x7ff73b977591+5f7f11]\n\tchromedriver!GetHandleVerifier [0x7ff73b971902+5f2282]\n\tchromedriver!GetHandleVerifier [0x7ff73b997115+617a95]\n\tchromedriver!GetHandleVerifier [0x7ff73b3b1dce+3274e]\n\tchromedriver!GetHandleVerifier [0x7ff73b3ba82c+3b1ac]\n\tchromedriver!GetHandleVerifier [0x7ff73b39d744+1e0c4]\n\tchromedriver!GetHandleVerifier [0x7ff73b39d8d4+1e254]\n\tchromedriver!GetHandleVerifier [0x7ff73b381447+1dc7]\n\tKERNEL32!BaseThreadInitThunk [0x7ffd3bfde957+17]\n\tntdll!RtlUserThreadStart [0x7ffd3c98427c+2c]\n"
+      ]
+    },
+    {
+      "product_name": "Samsung Galaxy S26",
+      "product_url": "https://www.verizon.com/smartphones/samsung-galaxy-s26/?sku=sku6044535",
+      "monthly_price": "Starts at $24.99/mo",
+      "rating": "4.7 out of 5 rating (1.2K reviews)",
+      "storage_variants": [],
+      "visible_colours": null,
+      "is_iphone_17": false,
+      "found_via": "listing_grid",
+      "errors": [
+        "Could not load PDP: Message: stale element reference: stale element not found in the current frame\n  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception\nStacktrace:\n\tchromedriver!GetHandleVerifier [0x7ff73b393fa5+14925]\n\tchromedriver!GetHandleVerifier [0x7ff73b394000+14980]\n\tchromedriver!(No symbol) [0x7ff73aed793d]\n\tchromedriver!(No symbol) [0x7ff73aedf8b1]\n\tchromedriver!(No symbol) [0x7ff73aee2c0f]\n\tchromedriver!(No symbol) [0x7ff73af80748]\n\tchromedriver!(No symbol) [0x7ff73af5a3ca]\n\tchromedriver!(No symbol) [0x7ff73af7f39b]\n\tchromedriver!(No symbol) [0x7ff73af2401c]\n\tchromedriver!(No symbol) [0x7ff73af24f43]\n\tchromedriver!GetHandleVerifier [0x7ff73b977591+5f7f11]\n\tchromedriver!GetHandleVerifier [0x7ff73b971902+5f2282]\n\tchromedriver!GetHandleVerifier [0x7ff73b997115+617a95]\n\tchromedriver!GetHandleVerifier [0x7ff73b3b1dce+3274e]\n\tchromedriver!GetHandleVerifier [0x7ff73b3ba82c+3b1ac]\n\tchromedriver!GetHandleVerifier [0x7ff73b39d744+1e0c4]\n\tchromedriver!GetHandleVerifier [0x7ff73b39d8d4+1e254]\n\tchromedriver!GetHandleVerifier [0x7ff73b381447+1dc7]\n\tKERNEL32!BaseThreadInitThunk [0x7ffd3bfde957+17]\n\tntdll!RtlUserThreadStart [0x7ffd3c98427c+2c]\n"
+      ]
+    },
+    {
+      "product_name": "Google Pixel 10 Pro",
+      "product_url": "https://www.verizon.com/smartphones/google-pixel-10-pro/?sku=sku6035254",
+      "monthly_price": "Starts at $27.77/mo",
+      "rating": "3.9 out of 5 rating (1.1K reviews)",
+      "storage_variants": [],
+      "visible_colours": null,
+      "is_iphone_17": false,
+      "found_via": "listing_grid",
+      "errors": [
+        "Could not load PDP: Message: stale element reference: stale element not found in the current frame\n  (Session info: chrome=149.0.7827.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception\nStacktrace:\n\tchromedriver!GetHandleVerifier [0x7ff73b393fa5+14925]\n\tchromedriver!GetHandleVerifier [0x7ff73b394000+14980]\n\tchromedriver!(No symbol) [0x7ff73aed793d]\n\tchromedriver!(No symbol) [0x7ff73aedf8b1]\n\tchromedriver!(No symbol) [0x7ff73aee2c0f]\n\tchromedriver!(No symbol) [0x7ff73af80748]\n\tchromedriver!(No symbol) [0x7ff73af5a3ca]\n\tchromedriver!(No symbol) [0x7ff73af7f39b]\n\tchromedriver!(No symbol) [0x7ff73af2401c]\n\tchromedriver!(No symbol) [0x7ff73af24f43]\n\tchromedriver!GetHandleVerifier [0x7ff73b977591+5f7f11]\n\tchromedriver!GetHandleVerifier [0x7ff73b971902+5f2282]\n\tchromedriver!GetHandleVerifier [0x7ff73b997115+617a95]\n\tchromedriver!GetHandleVerifier [0x7ff73b3b1dce+3274e]\n\tchromedriver!GetHandleVerifier [0x7ff73b3ba82c+3b1ac]\n\tchromedriver!GetHandleVerifier [0x7ff73b39d744+1e0c4]\n\tchromedriver!GetHandleVerifier [0x7ff73b39d8d4+1e254]\n\tchromedriver!GetHandleVerifier [0x7ff73b381447+1dc7]\n\tKERNEL32!BaseThreadInitThunk [0x7ffd3bfde957+17]\n\tntdll!RtlUserThreadStart [0x7ffd3c98427c+2c]\n"
+      ]
+    },
+    {
+      "product_name": "Apple iPhone 16 Plus",
+      "product_url": "https://www.verizon.com/smartphones/apple-iphone-16-plus/?sku=sku6016038",
+      "monthly_price": "Starts at $23.05/mo",
+      "rating": "4.3 out of 5 rating (3.1K reviews)",
+      "storage_variants": [
+        {
+          "storage": "256 GB",
+          "price": null
+        },
+        {
+          "storage": "512 GB",
+          "price": null
+        }
+      ],
+      "visible_colours": [
+        "Ultramarine",
+        "White",
+        "Black",
+        "Pink",
+        "Teal"
+      ],
+      "is_iphone_17": false,
+      "found_via": "listing_grid",
+      "errors": [
+        "Could not click storage option '128 GB'"
+      ]
+    }
+  ],
+  "iphone_17_in_first_n": true,
+  "iphone_17_product": {
+    "product_name": "Apple iPhone 17",
+    "product_url": "https://www.verizon.com/smartphones/apple-iphone-17/?sku=sku6037251",
+    "monthly_price": "Starts at $23.05/mo",
+    "rating": "4.3 out of 5 rating (4.9K reviews)",
+    "storage_variants": [
+      {
+        "storage": "256 GB",
+        "price": null
+      },
+      {
+        "storage": "512 GB",
+        "price": null
+      }
+    ],
+    "visible_colours": [
+      "Lavender",
+      "White",
+      "Black",
+      "Mist Blue",
+      "Sage"
+    ],
+    "is_iphone_17": true,
+    "found_via": "listing_grid",
+    "errors": []
+  },
+  "errors": []
+}

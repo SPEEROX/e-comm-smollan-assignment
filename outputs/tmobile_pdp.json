@@ -1,0 +1,55 @@
+{
+  "source_file": "tmobile_urls.txt",
+  "products": [
+    {
+      "partner": "tmobile",
+      "source_type": "pdp",
+      "source_url": "https://www.t-mobile.com/cell-phone/apple-iphone-16-plus",
+      "product_name": "iPhone 16 Plus",
+      "brand": "Apple",
+      "available_colours": [
+        "Black"
+      ],
+      "available_storage_options": [
+        "128GB"
+      ],
+      "selected_colour": "Black",
+      "selected_storage": "128GB",
+      "monthly_price": "Original monthly price\n$34.59\nbefore discount\n$0.00/month\nwith discount",
+      "full_retail_price": "Full price: $829.99 + tax",
+      "promotions": [],
+      "availability_status": null,
+      "errors": [
+        "Element for 'availability_status' found but had no text"
+      ]
+    },
+    {
+      "partner": "tmobile",
+      "source_type": "pdp",
+      "source_url": "https://www.t-mobile.com/cell-phone/apple-iphone-17-pro-max",
+      "product_name": "iPhone 17 Pro Max",
+      "brand": "Apple",
+      "available_colours": [
+        "Silver",
+        "Cosmic Orange",
+        "Deep Blue"
+      ],
+      "available_storage_options": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "selected_colour": "Deep Blue",
+      "selected_storage": "2TB",
+      "monthly_price": "Original monthly price\n$79.17\nbefore discount\n$33.33/month\nwith discount",
+      "full_retail_price": "Full price: $1,999.99 + tax",
+      "promotions": [],
+      "availability_status": null,
+      "errors": [
+        "Element for 'availability_status' found but had no text"
+      ]
+    }
+  ],
+  "errors": []
+}
